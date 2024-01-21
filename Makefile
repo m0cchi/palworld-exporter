@@ -1,5 +1,5 @@
 
-VERSION := 0.0.1
+VERSION := 0.0.2
 CR := 192.168.3.102:5000
 NAME := palworld-exporter
 

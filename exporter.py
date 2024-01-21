@@ -42,6 +42,7 @@ if __name__ == "__main__":
                         "server_name": server_name,
                     }
                 )
+                break
             except:
                 rcon_failure_count.inc()
                 mcr.connect()
