@@ -1,3 +1,7 @@
+# What?
+Prometheus exporter for Palworld dedicated server.
+
+Palworld: https://store.steampowered.com/app/1623730/Palworld/
 
 # Run
 ```bash
